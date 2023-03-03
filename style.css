@@ -1,0 +1,49 @@
+.bg {
+    background-color: black;
+    color: white;
+    height: 150px;
+}
+
+.news-wrapper {
+    background-image: url(Images/Cocoa.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: left;
+}
+
+.card-wrapper {
+    background-image: url(Images/cocoa-leave.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: center;
+    background-position-x: left;
+    background-size: 200px;
+}
+
+.downwrap {
+    background-image: url(Images/cocoa-leave.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 200px;
+}
+
+.dry-cocoa-beans-bg {
+    background-image: url(Images/dry\ cocoa.jpg);
+    background-repeat: no-repeat;
+}
+
+.text-center.padd {
+    width: auto;
+    height: 200px;
+    background-color: rgb(68, 28, 4);
+    color: rgb(218, 102, 20);
+}
+
+ul {
+    list-style: none;
+}
+
+.bg-footer {
+    background: rgb(22, 18, 19);
+    color: white;
+}
